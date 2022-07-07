@@ -1,0 +1,21 @@
+Raspunsurile la examenul teoretic la disciplina C++:
+
+1)  char, int;
+2)  a=b;
+3)  int X[0]=2+3;
+4)  x=5;
+5)  2 şi 10;	
+6)  9;
+7)  I;
+8)  16;
+9)  102;
+10) A=3;
+11) Z=2;
+12) Error;
+13) a[2+1];
+14) A=4;
+15) X=2;
+16) Z=3;
+17) if(f == NULL) { cout<<” Fişierul nu poate fi deschis”; exit(1); };
+18) fprintf(fp,"%s%d", s, &t );
+19) Am scris codul in Examen.cpp
